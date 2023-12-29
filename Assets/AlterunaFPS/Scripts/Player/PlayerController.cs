@@ -8,11 +8,16 @@ namespace AlterunaFPS
 	// Class split into multiple files for clarity
 
 	[RequireComponent(typeof(CharacterController), typeof(InputSynchronizable), typeof(Health))]
+	[RequireComponent(typeof(Rigidbody), typeof (RigidbodySynchronizable))]
 	public partial class PlayerController : Synchronizable
 	{
+		private float _initialHeight;
+
 		private void Start()
 		{
 			_controller = GetComponent<CharacterController>();
+			_rb = GetComponent<Rigidbody>();
+			_initialHeight = _controller.height;
 			
 			InitializeNetworking();
 			InitializeGun();
@@ -53,6 +58,18 @@ namespace AlterunaFPS
 			JumpAndGravity();
 			GroundedCheck();
 			Move();
+
+			bool slide = _slide;
+			if (slide && !IsSliding)
+            {
+				Slide();
+            }
+
+			if (IsSliding)
+			{
+				SlideTimer -= Time.deltaTime;
+				if (SlideTimer <= 0) { IsSliding = false; }
+			}
 		}
 
 		private void LateUpdate()

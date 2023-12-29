@@ -1,0 +1,513 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8688802873072138193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Player/Footsteps/Player_Footstep_06
+  m_EditorClassIdentifier: 
+  Path: event:/Player/Footsteps/Player_Footstep_06
+  Guid:
+    Data1: -517727977
+    Data2: 1326360205
+    Data3: -1004328046
+    Data4: -1320210630
+  Banks:
+  - {fileID: 8798223384599580502}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 311
+--- !u!114 &-5821891488055203586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Player/Footsteps/Player_Footstep_10
+  m_EditorClassIdentifier: 
+  Path: event:/Player/Footsteps/Player_Footstep_10
+  Guid:
+    Data1: -1055153867
+    Data2: 1293693964
+    Data3: -1887474303
+    Data4: 1968852299
+  Banks:
+  - {fileID: 8798223384599580502}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 321
+--- !u!114 &-5186008765650195105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Player/Footsteps/Player_Footstep_02
+  m_EditorClassIdentifier: 
+  Path: event:/Player/Footsteps/Player_Footstep_02
+  Guid:
+    Data1: 748139588
+    Data2: 1287266444
+    Data3: -542477890
+    Data4: 333261757
+  Banks:
+  - {fileID: 8798223384599580502}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 273
+--- !u!114 &-4899005847768821694
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../../SlenderAbrasionAudioMix/sm_abrasion/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638393971234543235
+  FileSizes:
+  - Name: Desktop
+    Value: 1458
+  Exists: 1
+--- !u!114 &-3164296474045197379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Player/Footsteps/Player_Footstep_01
+  m_EditorClassIdentifier: 
+  Path: event:/Player/Footsteps/Player_Footstep_01
+  Guid:
+    Data1: 1861375460
+    Data2: 1172992144
+    Data3: -1984391758
+    Data4: 2039891021
+  Banks:
+  - {fileID: 8798223384599580502}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 264
+--- !u!114 &-1772215038368531398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Player/Footsteps/Player_Footstep_09
+  m_EditorClassIdentifier: 
+  Path: event:/Player/Footsteps/Player_Footstep_09
+  Guid:
+    Data1: -1976823708
+    Data2: 1300881497
+    Data3: -1454633073
+    Data4: -977633680
+  Banks:
+  - {fileID: 8798223384599580502}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 345
+--- !u!114 &-1304432740942595722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Guns/Glock 9MM/Gunshot/GlockGunshot
+  m_EditorClassIdentifier: 
+  Path: event:/Guns/Glock 9MM/Gunshot/GlockGunshot
+  Guid:
+    Data1: 521727151
+    Data2: 1153844166
+    Data3: 730134417
+    Data4: 162228045
+  Banks:
+  - {fileID: 7234252892278429849}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1736
+--- !u!114 &-1055594604491334451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Guns/Glock 9MM/Reload/GlockReload
+  m_EditorClassIdentifier: 
+  Path: event:/Guns/Glock 9MM/Reload/GlockReload
+  Guid:
+    Data1: 1552633923
+    Data2: 1267290854
+    Data3: 451734702
+    Data4: -681270703
+  Banks:
+  - {fileID: 7234252892278429849}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2453
+--- !u!114 &-624592648790292623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../SlenderAbrasionAudioMix/sm_abrasion/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638393971234528135
+  FileSizes:
+  - Name: Desktop
+    Value: 1036
+  Exists: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -4899005847768821694}
+  - {fileID: -624592648790292623}
+  - {fileID: 8798223384599580502}
+  - {fileID: 8703318531426544251}
+  - {fileID: 7234252892278429849}
+  - {fileID: 5270286749446585462}
+  EditorEvents:
+  - {fileID: 295168480322692149}
+  - {fileID: 639530308793030940}
+  - {fileID: -8688802873072138193}
+  - {fileID: 3911956935609798054}
+  - {fileID: -5821891488055203586}
+  - {fileID: -5186008765650195105}
+  - {fileID: -1772215038368531398}
+  - {fileID: 850240471062031507}
+  - {fileID: 6380366624697277340}
+  - {fileID: 2800332980484776390}
+  - {fileID: -3164296474045197379}
+  - {fileID: -1055594604491334451}
+  - {fileID: -1304432740942595722}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -624592648790292623}
+  StringsBanks:
+  - {fileID: -4899005847768821694}
+  cacheTime: 638394027031494559
+  cacheVersion: 131616
+--- !u!114 &295168480322692149
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Player/Footsteps/Player_Footstep_08
+  m_EditorClassIdentifier: 
+  Path: event:/Player/Footsteps/Player_Footstep_08
+  Guid:
+    Data1: -784534270
+    Data2: 1327303375
+    Data3: 828480156
+    Data4: -2109880021
+  Banks:
+  - {fileID: 8798223384599580502}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 319
+--- !u!114 &639530308793030940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Player/Footsteps/Player_Footstep_03
+  m_EditorClassIdentifier: 
+  Path: event:/Player/Footsteps/Player_Footstep_03
+  Guid:
+    Data1: -1786541803
+    Data2: 1108924620
+    Data3: -594428783
+    Data4: 1661886774
+  Banks:
+  - {fileID: 8798223384599580502}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 301
+--- !u!114 &850240471062031507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Player/Footsteps/Player_Footstep_04
+  m_EditorClassIdentifier: 
+  Path: event:/Player/Footsteps/Player_Footstep_04
+  Guid:
+    Data1: -1387805845
+    Data2: 1162184561
+    Data3: -1003245942
+    Data4: -472965611
+  Banks:
+  - {fileID: 8798223384599580502}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 330
+--- !u!114 &2800332980484776390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Player/Footsteps/Player_Footstep_05
+  m_EditorClassIdentifier: 
+  Path: event:/Player/Footsteps/Player_Footstep_05
+  Guid:
+    Data1: 1824112526
+    Data2: 1262565501
+    Data3: 1683269004
+    Data4: 865041843
+  Banks:
+  - {fileID: 8798223384599580502}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 333
+--- !u!114 &3911956935609798054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Player/Footsteps/Player_Footstep_07
+  m_EditorClassIdentifier: 
+  Path: event:/Player/Footsteps/Player_Footstep_07
+  Guid:
+    Data1: 659425834
+    Data2: 1226070690
+    Data3: 910956719
+    Data4: -1301981404
+  Banks:
+  - {fileID: 8798223384599580502}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 295
+--- !u!114 &5270286749446585462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Voice.bank
+  m_EditorClassIdentifier: 
+  Path: ../../SlenderAbrasionAudioMix/sm_abrasion/Build/Desktop/Voice.bank
+  Name: Voice
+  StudioPath: bank:/Voice
+  lastModified: 638393971238366430
+  FileSizes:
+  - Name: Desktop
+    Value: 494
+  Exists: 1
+--- !u!114 &6380366624697277340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Player/Player_Land
+  m_EditorClassIdentifier: 
+  Path: event:/Player/Player_Land
+  Guid:
+    Data1: -1483956088
+    Data2: 1174939580
+    Data3: 242246295
+    Data4: 1762602800
+  Banks:
+  - {fileID: 8798223384599580502}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 255
+--- !u!114 &7234252892278429849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/SFX.bank
+  m_EditorClassIdentifier: 
+  Path: ../../SlenderAbrasionAudioMix/sm_abrasion/Build/Desktop/SFX.bank
+  Name: SFX
+  StudioPath: bank:/SFX
+  lastModified: 638394023078580708
+  FileSizes:
+  - Name: Desktop
+    Value: 48096
+  Exists: 1
+--- !u!114 &8703318531426544251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: ../../SlenderAbrasionAudioMix/sm_abrasion/Build/Desktop/Music.bank
+  Name: Music
+  StudioPath: bank:/Music
+  lastModified: 638393971237322961
+  FileSizes:
+  - Name: Desktop
+    Value: 494
+  Exists: 1
+--- !u!114 &8798223384599580502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Ambience.bank
+  m_EditorClassIdentifier: 
+  Path: ../../SlenderAbrasionAudioMix/sm_abrasion/Build/Desktop/Ambience.bank
+  Name: Ambience
+  StudioPath: bank:/Ambience
+  lastModified: 638394027031494559
+  FileSizes:
+  - Name: Desktop
+    Value: 43424
+  Exists: 1

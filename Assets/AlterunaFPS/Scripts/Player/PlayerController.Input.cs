@@ -11,6 +11,8 @@ namespace AlterunaFPS
 		
 		private SyncedKey _jump;
 		private SyncedKey _sprint;
+		private SyncedKey _slide;
+		private SyncedKey _melee;
 		private SyncedKey _reload;
 		private SyncedKey _camera;
 		
@@ -34,6 +36,7 @@ namespace AlterunaFPS
 			
 			_jump = new SyncedKey(_input, KeyCode.Space, SyncedKey.KeyMode.KeyDown); 
 			_sprint = new SyncedKey(_input, KeyCode.LeftShift);
+			_slide = new SyncedKey(_input, KeyCode.LeftAlt);
 			_reload = new SyncedKey(_input, KeyCode.R, SyncedKey.KeyMode.KeyDown);
 			_camera = new SyncedKey(_input, KeyCode.V, SyncedKey.KeyMode.ToggleKeyDown);
 		}
